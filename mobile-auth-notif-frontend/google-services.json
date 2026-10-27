@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443092294798",
+    "project_id": "pemmob-5d810",
+    "storage_bucket": "pemmob-5d810.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443092294798:android:222b21314ce85cbf3c3ddf",
+        "android_client_info": {
+          "package_name": "id.ac.uinsa.mobileauthnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrfLZFWPUTycDnOhclK5h39Lo4zsQOJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
